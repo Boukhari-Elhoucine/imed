@@ -51,7 +51,7 @@ def load_images_from_folder(folder,width=256, height=256):
 ##########################################################""
 #your path
 
-normal_dir = 'G10'
+normal_dir = 'G10/G10'
 #abnormal_dir = 'brain_tumor_dataset/yes'
 
 #normal_dir = '/home/dairi/Datasets/brain_tumor_dataset/no/'
